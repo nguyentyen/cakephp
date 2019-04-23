@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60981b09-7af3-4969-8d05-b258c04391c6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/htdocs_fake/cakephp/app/Controller/ImagesController.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/htdocs_fake/cakephp/app/Controller/ManufacturersController.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/htdocs_fake/cakephp/app/Controller/PostsController.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/htdocs_fake/cakephp/app/Controller/UsersController.php" afterDir="false" />
@@ -9,29 +10,62 @@
       <change afterPath="$PROJECT_DIR$/htdocs_fake/cakephp/app/Model/manufacturers.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/htdocs_fake/cakephp/app/Model/posts.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/htdocs_fake/cakephp/app/View/Manufacturers/index.ctp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htdocs_fake/cakephp/app/View/Manufacturers/view.ctp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/htdocs_fake/cakephp/app/View/Posts/add.ctp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/htdocs_fake/cakephp/app/View/Posts/edit.ctp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/htdocs_fake/cakephp/app/View/Posts/index.ctp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/htdocs_fake/cakephp/app/View/Posts/view.ctp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/htdocs_fake/cakephp/app/View/Users/add.ctp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/htdocs_fake/cakephp/app/View/Users/login.ctp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/dummy/cakephp/app/Controller/PostsController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/dummy/cakephp/app/Model/posts.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/dummy/cakephp/app/View/Posts/add.ctp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/dummy/cakephp/app/View/Posts/edit.ctp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/dummy/cakephp/app/View/Posts/index.ctp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/dummy/cakephp/app/View/Posts/view.ctp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htdocs_fake/cakephp/app/View/logo-hoch-Kopie.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/htdocs_fake/cakephp/app/Config/core.php" beforeDir="false" afterPath="$PROJECT_DIR$/htdocs_fake/cakephp/app/Config/core.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/htdocs_fake/cakephp/app/Config/routes.php" beforeDir="false" afterPath="$PROJECT_DIR$/htdocs_fake/cakephp/app/Config/routes.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/htdocs_fake/cakephp/app/Controller/AppController.php" beforeDir="false" afterPath="$PROJECT_DIR$/htdocs_fake/cakephp/app/Controller/AppController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/htdocs_fake/cakephp/app/View/Helper/AppHelper.php" beforeDir="false" afterPath="$PROJECT_DIR$/htdocs_fake/cakephp/app/View/Helper/AppHelper.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dummy/cakephp/app/Config/routes.php" beforeDir="false" afterPath="$PROJECT_DIR$/test/dummy/cakephp/app/Config/routes.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dummy/cakephp/app/View/Helper/AppHelper.php" beforeDir="false" afterPath="$PROJECT_DIR$/test/dummy/cakephp/app/View/Helper/AppHelper.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/htdocs_fake/cakephp/app/webroot/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/htdocs_fake/cakephp/app/webroot/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/dummy/cakephp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/dummy/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/dummy/test.php" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file pinned="false" current-in-tab="false">
+              <entry file="file://$PROJECT_DIR$/htdocs_fake/cakephp/app/View/Posts/index.ctp">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="51">
+                    <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="77" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/htdocs_fake/cakephp/app/Controller/PostsController.php">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="153">
+                    <caret line="14" column="54" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="54" />
+                    <folding>
+                      <element signature="n#add#0;n#PostsController#0;n#!!top" />
+                      <element signature="n#edit#0;n#PostsController#0;n#!!top" />
+                      <element signature="n#delete#0;n#PostsController#0;n#!!top" />
+                    </folding>
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1450267321">
@@ -45,30 +79,34 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="ctp" value="13" />
+          <entry key="ctp" value="20" />
           <entry key="default" value="1" />
+          <entry key="htaccess" value="1" />
           <entry key="html" value="3" />
           <entry key="myapp_cake_model_default_yen_list" value="1" />
-          <entry key="php" value="28" />
+          <entry key="php" value="54" />
+          <entry key="png" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="3" />
-          <entry key="PHP" value="28" />
-          <entry key="PLAIN_TEXT" value="15" />
+          <entry key="Image" value="1" />
+          <entry key="PHP" value="54" />
+          <entry key="PLAIN_TEXT" value="22" />
+          <entry key="htaccess" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="ctp" value="11" />
-          <entry key="php" value="142" />
+          <entry key="ctp" value="267" />
+          <entry key="php" value="305" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PHP" value="142" />
-          <entry key="PLAIN_TEXT" value="11" />
+          <entry key="PHP" value="305" />
+          <entry key="PLAIN_TEXT" value="267" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.php.new.class">
@@ -81,88 +119,49 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/htdocs_fake/cakephp/app/Controller/PostsController.php">
+        <entry file="file://$PROJECT_DIR$/htdocs_fake/cakephp/app/Controller/ManufacturersController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+            <state relative-caret-position="255">
+              <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
               <folding>
-                <element signature="n#edit#0;n#PostsController#0;n#!!top" />
-                <element signature="n#delete#0;n#PostsController#0;n#!!top" />
+                <element signature="n#add#0;n#ManufacturersController#0;n#!!top" />
+                <element signature="n#delete#0;n#ManufacturersController#0;n#!!top" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/htdocs_fake/cakephp/app/Controller/PagesController.php">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/htdocs_fake/cakephp/app/Model/User.php">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/htdocs_fake/cakephp/app/View/Manufacturers/view.ctp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+            <state relative-caret-position="357">
+              <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/htdocs_fake/cakephp/app/View/Users/login.ctp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/htdocs_fake/cakephp/app/webroot/img/cake.icon.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/htdocs_fake/cakephp/app/Controller/UsersController.php">
+        <entry file="file://$PROJECT_DIR$/htdocs_fake/cakephp/app/Controller/ImagesController.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/htdocs_fake/cakephp/app/Config/routes.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="29" column="48" lean-forward="true" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/htdocs_fake/cakephp/app/View/Users/add.ctp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/htdocs_fake/cakephp/app/View/Posts/index.ctp">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/htdocs_fake/cakephp/app/View/Manufacturers/index.ctp">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/htdocs_fake/cakephp/app/Controller/AppController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="37" column="19" lean-forward="true" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
+              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Security.salt</find>
+      <find>echo 123</find>
+      <find>123</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/htdocs_fake/cakephp" />
@@ -183,15 +182,20 @@
         <option value="$PROJECT_DIR$/test/dummy/cakephp/app/Controller/PostsController.php" />
         <option value="$PROJECT_DIR$/test/dummy/index.html" />
         <option value="$PROJECT_DIR$/htdocs/index.html" />
-        <option value="$PROJECT_DIR$/htdocs_fake/cakephp/app/Controller/ManufacturersController.php" />
         <option value="$PROJECT_DIR$/htdocs_fake/cakephp/app/Model/manufacturers.php" />
         <option value="$PROJECT_DIR$/htdocs_fake/cakephp/app/View/Users/add.ctp" />
         <option value="$PROJECT_DIR$/htdocs_fake/cakephp/app/Controller/UsersController.php" />
         <option value="$PROJECT_DIR$/htdocs_fake/cakephp/app/Model/User.php" />
         <option value="$PROJECT_DIR$/htdocs_fake/cakephp/app/View/Users/login.ctp" />
-        <option value="$PROJECT_DIR$/htdocs_fake/cakephp/app/Controller/PostsController.php" />
-        <option value="$PROJECT_DIR$/htdocs_fake/cakephp/app/Controller/AppController.php" />
         <option value="$PROJECT_DIR$/htdocs_fake/cakephp/app/Config/routes.php" />
+        <option value="$PROJECT_DIR$/htdocs_fake/cakephp/app/Controller/AppController.php" />
+        <option value="$PROJECT_DIR$/htdocs_fake/cakephp/app/webroot/index.php" />
+        <option value="$PROJECT_DIR$/htdocs_fake/cakephp/app/Config/core.php" />
+        <option value="$PROJECT_DIR$/htdocs_fake/cakephp/app/Controller/PostsController.php" />
+        <option value="$PROJECT_DIR$/htdocs_fake/cakephp/app/View/Manufacturers/index.ctp" />
+        <option value="$PROJECT_DIR$/htdocs_fake/cakephp/app/Controller/ManufacturersController.php" />
+        <option value="$PROJECT_DIR$/htdocs_fake/cakephp/app/Controller/ImagesController.php" />
+        <option value="$PROJECT_DIR$/htdocs_fake/cakephp/app/View/Manufacturers/view.ctp" />
       </list>
     </option>
   </component>
@@ -245,7 +249,49 @@
               <item name="htdocs_fake" type="462c0819:PsiDirectoryNode" />
               <item name="cakephp" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="Config" type="462c0819:PsiDirectoryNode" />
+              <item name="Controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yen" type="462c0819:PsiDirectoryNode" />
+              <item name="htdocs_fake" type="462c0819:PsiDirectoryNode" />
+              <item name="cakephp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yen" type="462c0819:PsiDirectoryNode" />
+              <item name="htdocs_fake" type="462c0819:PsiDirectoryNode" />
+              <item name="cakephp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="View" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yen" type="462c0819:PsiDirectoryNode" />
+              <item name="htdocs_fake" type="462c0819:PsiDirectoryNode" />
+              <item name="cakephp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="View" type="462c0819:PsiDirectoryNode" />
+              <item name="Manufacturers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yen" type="462c0819:PsiDirectoryNode" />
+              <item name="htdocs_fake" type="462c0819:PsiDirectoryNode" />
+              <item name="cakephp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="webroot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yen" type="462c0819:PsiDirectoryNode" />
+              <item name="htdocs_fake" type="462c0819:PsiDirectoryNode" />
+              <item name="cakephp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="webroot" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -259,10 +305,13 @@
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\DEV\DEVILBOX\devilbox\data\www\yen\htdocs_fake\cakephp\app\View" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\DEV\DEVILBOX\devilbox\data\www\yen\htdocs_fake\cakephp\app\View\Manufacturers" />
       <recent name="C:\DEV\DEVILBOX\devilbox\data\www\yen\htdocs_fake\cakephp\app\Controller" />
       <recent name="C:\DEV\DEVILBOX\devilbox\data\www\yen\htdocs_fake\cakephp\app\Model" />
-      <recent name="C:\DEV\DEVILBOX\devilbox\data\www\yen\htdocs_fake\cakephp\app\View\Manufacturers" />
       <recent name="C:\DEV\DEVILBOX\devilbox\data\www\yen\test\dummy\cakephp\app\Config" />
     </key>
   </component>
@@ -289,12 +338,12 @@
       <option name="presentableId" value="Default" />
       <updated>1554978285338</updated>
       <workItem from="1554978287839" duration="7022000" />
-      <workItem from="1556023786869" duration="3211000" />
+      <workItem from="1556023786869" duration="9551000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10233000" />
+    <option name="totallyTimeSpent" value="16573000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -328,20 +377,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/dummy/cakephp/app/Config/database.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="76" column="29" selection-start-line="76" selection-start-column="29" selection-end-line="76" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/dummy/cakephp/app/Config/core.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="179" selection-start-line="179" selection-end-line="179" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/dummy/cakephp/app/View/Helper/AppHelper.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -460,48 +495,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/htdocs_fake/cakephp/app/webroot/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-995" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htdocs_fake/cakephp/app/Controller/ManufacturersController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htdocs_fake/cakephp/app/Model/manufacturers.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htdocs_fake/cakephp/app/View/Posts/view.ctp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htdocs_fake/cakephp/app/View/Posts/index.ctp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htdocs_fake/cakephp/app/View/Manufacturers/index.ctp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htdocs_fake/cakephp/app/Controller/PagesController.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/htdocs_fake/cakephp/app/View/Users/add.ctp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htdocs_fake/cakephp/app/Model/User.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -512,35 +509,182 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/htdocs_fake/cakephp/app/webroot/.htaccess">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htdocs_fake/cakephp/lib/Cake/Network/CakeRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-118">
+          <caret line="169" column="23" selection-start-line="169" selection-start-column="23" selection-end-line="169" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/dummy/cakephp/lib/Cake/Routing/Dispatcher.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="144" column="20" selection-start-line="144" selection-start-column="20" selection-end-line="144" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htdocs_fake/cakephp/app/Console/cake.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htdocs_fake/cakephp/app/Config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-539" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htdocs_fake/cakephp/lib/Cake/Core/CakePlugin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="226" column="27" selection-start-line="226" selection-start-column="27" selection-end-line="226" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htdocs_fake/cakephp/app/Config/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htdocs_fake/cakephp/app/Controller/AppController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="34" column="16" lean-forward="true" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+          <folding>
+            <element signature="e#837#1078#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htdocs_fake/cakephp/app/webroot/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-893" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htdocs_fake/cakephp/app/webroot/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#819#1040#0#PHP" />
+            <element signature="e#1465#1978#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htdocs_fake/cakephp/app/Config/core.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="724">
+          <caret line="225" column="80" lean-forward="true" selection-start-line="225" selection-start-column="80" selection-end-line="225" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htdocs_fake/cakephp/app/Controller/UsersController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+          <folding>
+            <element signature="n#add#0;n#UsersController#0;n#!!top" />
+            <element signature="n#edit#0;n#UsersController#0;n#!!top" />
+            <element signature="n#delete#0;n#UsersController#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htdocs_fake/cakephp/app/View/Posts/index.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/htdocs_fake/cakephp/app/Controller/PostsController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+        <state relative-caret-position="153">
+          <caret line="14" column="54" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="54" />
           <folding>
+            <element signature="n#add#0;n#PostsController#0;n#!!top" />
             <element signature="n#edit#0;n#PostsController#0;n#!!top" />
             <element signature="n#delete#0;n#PostsController#0;n#!!top" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/htdocs_fake/cakephp/app/Controller/AppController.php">
+    <entry file="file://$PROJECT_DIR$/htdocs_fake/cakephp/app/Controller/PagesController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="37" column="19" lean-forward="true" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
+        <state relative-caret-position="187">
+          <caret line="37" column="16" lean-forward="true" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/htdocs_fake/cakephp/app/Controller/UsersController.php">
+    <entry file="file://$PROJECT_DIR$/htdocs_fake/cakephp/app/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htdocs_fake/cakephp/app/Model/manufacturers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htdocs_fake/cakephp/app/Model/AppModel.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htdocs_fake/cakephp/app/Model/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htdocs_fake/cakephp/app/Model/posts.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htdocs_fake/cakephp/app/View/Manufacturers/index.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="20" column="71" lean-forward="true" selection-start-line="20" selection-start-column="71" selection-end-line="20" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htdocs_fake/cakephp/app/View/Posts/view.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htdocs_fake/cakephp/app/Controller/ManufacturersController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+          <folding>
+            <element signature="n#add#0;n#ManufacturersController#0;n#!!top" />
+            <element signature="n#delete#0;n#ManufacturersController#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htdocs_fake/cakephp/app/Controller/ImagesController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/htdocs_fake/cakephp/app/Config/routes.php">
+    <entry file="file://$PROJECT_DIR$/htdocs_fake/cakephp/app/webroot/img/cake.icon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htdocs_fake/cakephp/app/View/Manufacturers/view.ctp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="29" column="48" lean-forward="true" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="53" />
+        <state relative-caret-position="357">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
         </state>
       </provider>
     </entry>
